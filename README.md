@@ -40,15 +40,18 @@ An immersive experience for editing Instagram story posts in a 3D environment us
     - For example, bursting a bubble with a cloud icon applies a ‘Cloud Filter’ to the photo, and various clouds will appear on it. 
     <img src="Images/cloud-filter-applied.png" style="width:100px block"></img>
     <img src="Images/apply-cloud-filter.png" style="width:100px block"></img>
-    Users can apply multiple filters if they wish. When a filter is applied, a bookmark with its icon appears next to the photo, accompanied by a close icon. Clicking the close icon removes the filter, and the corresponding bubble is rebuilt and reappears in the room for users to reapply.
+    
+Users can apply multiple filters if they wish. When a filter is applied, a bookmark with its icon appears next to the photo, accompanied by a close icon. Clicking the close icon removes the filter, and the corresponding bubble is rebuilt and reappears in the room for users to reapply.
   - More examples: 
     1. Applied cloud filter with a butterfly icon:
-    <img src="Images/cloud-filter-icon.png" style="width:100px block"></img>
+      <img src="Images/cloud-filter-icon.png" style="width:100px block"></img>
     2. Applied flower filter:
-    <img src="Images/flower-filter-applied.png" style="width:100px block"></img>
-    <img src="Images/apply-flower-filter.png" style="width:100px block"></img>
+      <img src="Images/flower-filter-applied.png" style="width:100px block"></img>
+      <img src="Images/apply-flower-filter.png" style="width:100px block"></img>
     3. Applied Cloud filter and Flower filter:
-    <img src="Images/two-filters-applied.png" style="width:100px block"></img>
+
+
+        <img src="Images/two-filters-applied.png" style="width:100px block"></img>
 
 ### Input Devices
 * Meta Quest Simulator on Unity
@@ -60,4 +63,4 @@ An immersive experience for editing Instagram story posts in a 3D environment us
   * Use joystick on the controller for teleporting
   * Use grip button (on the side of the controller) to grabs elements
   
-  *More information can be found on the Meta website: https://www.meta.com/en-gb/help/quest/articles/getting-started/getting-started-with-quest-2/using-touch-controllers-quest/?srsltid=AfmBOop5-MKmCJadfoEH4bKIv4vzFHtTIHN1cQ6bpbvxEpjK9ZUe4_-S*
+    *More information can be found on the Meta website: https://www.meta.com/en-gb/help/quest/articles/getting-started/getting-started-with-quest-2/using-touch-controllers-quest/?srsltid=AfmBOop5-MKmCJadfoEH4bKIv4vzFHtTIHN1cQ6bpbvxEpjK9ZUe4_-S*
